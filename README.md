@@ -133,6 +133,7 @@ Through this project, I learned:
 ## Author
 
 **Rishi Kumar**
+
 B.Tech CSE (Core)
-First Year Student
+
 VIT Bhopal University
