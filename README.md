@@ -75,11 +75,16 @@ Reason:
 ## How to Run the Project
 
 ### Step 1: Install dependencies
-* pip install pandas scikit-learn
 
+```bash
+pip install pandas scikit-learn
+```
 
 ### Step 2: Run the model
+
+```bash
 python model.py
+```
 
 ## Output
 
@@ -93,14 +98,19 @@ The model:
 ## Example
 
 Input:
+
+```text
 study_hours = 4
 attendance = 65
 sleep = 5
 screen_time = 6
+```
 
 Output:
-Predicted Result: 0 (Poor Performance)
 
+```text
+Predicted Result: 0 (Poor Performance)
+```
 
 ## Limitations
 
